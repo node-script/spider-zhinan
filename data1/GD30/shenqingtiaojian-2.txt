@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件包括：<br>《放射诊疗许可证》与《医疗机构执业许可证》同时校验。
+			
+		</div>

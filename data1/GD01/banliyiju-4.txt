@@ -1,0 +1,66 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta">序列</td>
+					<td class="ta">法律名称</td>
+					<td class="ta">条数</td>
+<!-- 					<td class="ta" >正文</td>  -->
+					<td class="ta">附件</td>
+					
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">《天津市民办教育促进条例》（2011年）</td>
+							 <td style="text-align: center;">14</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">《中华人民共和国民办教育促进法》（2013年）</td>
+							 <td style="text-align: center;">11</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">《中华人民共和国民办教育促进法》（2013年）</td>
+							 <td style="text-align: center;">56</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">4</td>
+							 <td style="text-align: center;">《中华人民共和国教育法》（2015年）</td>
+							 <td style="text-align: center;">7</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">5</td>
+							 <td style="text-align: center;">《中华人民共和国民办教育促进法》（2013年）</td>
+							 <td style="text-align: center;">55</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">6</td>
+							 <td style="text-align: center;">《中华人民共和国民办教育促进法》（2013年）</td>
+							 <td style="text-align: center;">53</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+				
+			</table>

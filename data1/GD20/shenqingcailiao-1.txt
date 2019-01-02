@@ -1,0 +1,195 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="20180315164947025723" sxid="120000000000300590866112">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','120000000000300590866112','300590866','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','120000000000300590866112','300590866','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="JY20170104" sxid="120000000000300590866112">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">JY20170104</td>
+					<td style="text-align: center;">设置医疗机构申请书</td>
+					<td style="text-align: center;">申请人自行填写；</td>
+<!-- 					<td style="text-align: center;" title="申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B。">申请表可到天津市（...</td> -->
+					<td style="text-align: center;">申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('779F3BA2-972C-4C72-8F78-7A047CC19E9B','120000000000300590866112','300590866','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('7D9249BE-8EE5-4207-84ED-0E4CF7B9AFC5','120000000000300590866112','300590866','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D7D9249BE-8EE5-4207-84ED-0E4CF7B9AFC5');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="120000000000300590866112">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','120000000000300590866112','300590866','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','120000000000300590866112','300590866','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="JY20170107" sxid="120000000000300590866112">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">JY20170107</td>
+					<td style="text-align: center;">选址报告</td>
+					<td style="text-align: center;">申请人自行撰写；</td>
+<!-- 					<td style="text-align: center;" title="参照《医疗机构管理条例实施细则》（卫生部令第35号，2008年修订）第16条撰写。具体包含以下内容： ——选址的依据； ——选址所在地区的环境和公用设施情况； ——选址与周围托幼机构、中小学校、食品生产经营单位布局的关系； ——占地和建筑面积。">参照《医疗机构管理...</td> -->
+					<td style="text-align: center;">参照《医疗机构管理条例实施细则》（卫生部令第35号，2008年修订）第16条撰写。具体包含以下内容： ——选址的依据； ——选址所在地区的环境和公用设施情况； ——选址与周围托幼机构、中小学校、食品生产经营单位布局的关系； ——占地和建筑面积。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="JY20170113" sxid="120000000000300590866112">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">JY20170113</td>
+					<td style="text-align: center;">建筑设计平面图</td>
+					<td style="text-align: center;">一般从建筑设计公司或装修饰公司取得</td>
+<!-- 					<td style="text-align: center;" title="能体现拟设置医疗机构所有医技科室和功能房间，图纸原件1份，盖公司公章。">能体现拟设置医疗机...</td> -->
+					<td style="text-align: center;">能体现拟设置医疗机构所有医技科室和功能房间，图纸原件1份，盖公司公章。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="JY20170105" sxid="120000000000300590866112">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">JY20170105</td>
+					<td style="text-align: center;">设置可行性研究报告</td>
+					<td style="text-align: center;">申请人自行撰写；</td>
+<!-- 					<td style="text-align: center;" title="参照《医疗机构管理条例实施细则》（卫生部令第35号，2008年修订）第15条的14个内容撰写。具体包括以下内容： ——申请单位名称、基本情况以及申请人姓名、年龄、专业履历、身份证号码； ——所在地区的人口、经济和社会发展等概况； ——所在地区人群健康状况和疾病流行以及有关疾病患病率； ——所在地区医疗资源分布情况以及医疗服务需求分析； ——拟设医疗机构的名称、选址、功能、任务、服务半径； ——拟设医疗机构的服务方式、时间、诊疗科目和床位编制； ——拟设医疗机构的组织结构、人员配备； ——拟设医疗机构的仪器、设备配备； ——拟设医疗机构与服务半径区域内其他医疗机构的关系和影响； ——拟设医疗机构的污水、污物、粪便处理方案； ——拟设医疗机构的通讯、供电、上下水道、消防设施情况； ——资金来源、投资方式、投资总额、注册资金（资本）； ——拟设医疗机构的投资预算； ——拟设医疗机构五年内的成本效益预测分析；。">参照《医疗机构管理...</td> -->
+					<td style="text-align: center;">参照《医疗机构管理条例实施细则》（卫生部令第35号，2008年修订）第15条的14个内容撰写。具体包括以下内容： ——申请单位名称、基本情况以及申请人姓名、年龄、专业履历、身份证号码； ——所在地区的人口、经济和社会发展等概况； ——所在地区人群健康状况和疾病流行以及有关疾病患病率； ——所在地区医疗资源分布情况以及医疗服务需求分析； ——拟设医疗机构的名称、选址、功能、任务、服务半径； ——拟设医疗机构的服务方式、时间、诊疗科目和床位编制； ——拟设医疗机构的组织结构、人员配备； ——拟设医疗机构的仪器、设备配备； ——拟设医疗机构与服务半径区域内其他医疗机构的关系和影响； ——拟设医疗机构的污水、污物、粪便处理方案； ——拟设医疗机构的通讯、供电、上下水道、消防设施情况； ——资金来源、投资方式、投资总额、注册资金（资本）； ——拟设医疗机构的投资预算； ——拟设医疗机构五年内的成本效益预测分析；。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

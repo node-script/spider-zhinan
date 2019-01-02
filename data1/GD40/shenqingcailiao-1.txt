@@ -1,0 +1,167 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="SHY20170187" sxid="1201160000003007178471127">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">SHY20170187</td>
+					<td style="text-align: center;">天津市医疗保健机构计划生育技术服务人员资格考核申请表</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请表可到自贸试验区、各区县行政审批局现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载。天津市医疗保健机构计划生育技术服务人员资格考核申请表及填写说明附录A、B。">申请表可到自贸试验...</td> -->
+					<td style="text-align: center;">申请表可到自贸试验区、各区县行政审批局现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载。天津市医疗保健机构计划生育技术服务人员资格考核申请表及填写说明附录A、B。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('466394DF-AD88-4D57-AA4F-C5C050AD1440','1201160000003007178471127','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('2CBBD0C6-D8D1-4257-93F0-9F29F118B300','1201160000003007178471127','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D2CBBD0C6-D8D1-4257-93F0-9F29F118B300');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="SHY20170188" sxid="1201160000003007178471127">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">SHY20170188</td>
+					<td style="text-align: center;">参加全市统一组织的计划生育基础理论知识考试和参加区县组织的实际操作技能考核及格的证明材料</td>
+					<td style="text-align: center;">从组织考试的机构取得</td>
+<!-- 					<td style="text-align: center;" title="需提供参加全市统一组织的计划生育基础理论知识考试和参加区县组织的实际操作技能考核及格证明的原件。">需提供参加全市统一...</td> -->
+					<td style="text-align: center;">需提供参加全市统一组织的计划生育基础理论知识考试和参加区县组织的实际操作技能考核及格证明的原件。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471127">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471127','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471127','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="1201160000003007178471127">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471127','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471127','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="SHY20170156" sxid="1201160000003007178471127">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">SHY20170156</td>
+					<td style="text-align: center;">毕业证、学位证、资格证、执业证、职称证</td>
+					<td style="text-align: center;">申请人自行复印；</td>
+<!-- 					<td style="text-align: center;" title="需提供申请人的毕业证、学位证、资格证、执业证、职称证的原件及复印件1份。其中，资格证包括执业医师证、助理医师证、计划生育技术服务人员证；执业证包括医师执业证、助理医师执业证、计划生育技术服务人员执业证。">需提供申请人的毕业...</td> -->
+					<td style="text-align: center;">需提供申请人的毕业证、学位证、资格证、执业证、职称证的原件及复印件1份。其中，资格证包括执业医师证、助理医师证、计划生育技术服务人员证；执业证包括医师执业证、助理医师执业证、计划生育技术服务人员执业证。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件包括：<br>a)已取得《医师执业证》；<br>b)取得了与拟变更执业范围相吻合的学历，或已经过系统培训并考核合格。
+			
+		</div>

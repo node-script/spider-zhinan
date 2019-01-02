@@ -1,0 +1,195 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="20180306142417000737" sxid="1201160000003007178471560">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">20180306142417000737</td>
+					<td style="text-align: center;">社会组织法人注销登记表</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请表可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，一式两份，基本信息与社会组织登记信息一致，社会组织法定代表人签章由拟卸任法定代表人签字和盖章，业务主管单位印章应与登记的业务主管单位一致，填写说明及申请表见附录A、B。">申请表可通过天津网...</td> -->
+					<td style="text-align: center;">申请表可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，一式两份，基本信息与社会组织登记信息一致，社会组织法定代表人签章由拟卸任法定代表人签字和盖章，业务主管单位印章应与登记的业务主管单位一致，填写说明及申请表见附录A、B。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('95AF8C16-04F2-47F8-9759-2A958AB17A13','1201160000003007178471560','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('C2AEF99C-A811-45C4-B7AE-C35421DEEE43','1201160000003007178471560','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3DC2AEF99C-A811-45C4-B7AE-C35421DEEE43');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180306143803000745" sxid="1201160000003007178471560">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">20180306143803000745</td>
+					<td style="text-align: center;">业务主管单位同意注销的文件</td>
+					<td style="text-align: center;">从业务主管单位取得</td>
+<!-- 					<td style="text-align: center;" title="文件一式两份，由业务主管单位正式发文同意注销该社会组织，模板见附录C。">文件一式两份，由业...</td> -->
+					<td style="text-align: center;">文件一式两份，由业务主管单位正式发文同意注销该社会组织，模板见附录C。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('3267BE64-620E-4635-ADC6-EB07A7DB976D','1201160000003007178471560','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="1201160000003007178471560">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471560','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471560','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180306144321000748" sxid="1201160000003007178471560">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">20180306144321000748</td>
+					<td style="text-align: center;">证书正副本、印章</td>
+					<td style="text-align: center;">申请人自行提供</td>
+<!-- 					<td style="text-align: center;" title="须将登记证书正副本、印章交回登记管理机关">须将登记证书正副本...</td> -->
+					<td style="text-align: center;">须将登记证书正副本、印章交回登记管理机关</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471560">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471560','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471560','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180306143834000746" sxid="1201160000003007178471560">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">20180306143834000746</td>
+					<td style="text-align: center;">清算报告</td>
+					<td style="text-align: center;">审计报告从有资质的会计师事务所取得、剩余资产移交证明由申请人自行提供</td>
+<!-- 					<td style="text-align: center;" title="清算报告包括财务审计报告书、剩余资产移交证明。财务审计应符合非营利组织会计制度，包括未参加年度审计的年份的审计和清算期间的审计，剩余资产移交符合非营利组织政策和相关法律法规要求。">清算报告包括财务审...</td> -->
+					<td style="text-align: center;">清算报告包括财务审计报告书、剩余资产移交证明。财务审计应符合非营利组织会计制度，包括未参加年度审计的年份的审计和清算期间的审计，剩余资产移交符合非营利组织政策和相关法律法规要求。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

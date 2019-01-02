@@ -1,0 +1,64 @@
+﻿<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tab02">
+		<col width="16%">
+		<col width="6%">
+		<col width="25%">
+		<col width="16%">
+		<col width="31%">
+		  <tbody>
+		   	<tr>
+		      <td class="ta">是否支持网上支付</td>
+		      <td colspan="2">
+		     <!--  0 -->
+		       否
+		      </td>
+		      <!-- <td class="ta">是否支持预约办理</td>
+		      <td>
+		      否
+		      </td> -->
+		       <td class="ta">是否支持物流快递</td>
+		      <td colspan="2">
+		      否
+		      </td>
+		    </tr>
+		     <tr>
+		      <td class="ta">预约途径</td>
+		      <td colspan="2">
+		      <!-- 4, -->
+		      
+			      		      
+		      </td>
+		      <td class="ta">办理类型</td>
+		      <td>承诺件</td>
+		    </tr>
+		     <tr>
+		      <td class="ta">办理结果</td>
+		      <td colspan="2">天津市一孩、二孩生育服务登记信息</td>
+		      <td class="ta">结果样本</td>
+		      <td>
+		      <a href="/fileService/downloadFile.jspx?fileid=683DE4AF-CD20-4D72-85AF-C9EE15F9802F">一孩二孩结果样本.docx</a>
+		      </td>
+		    </tr>
+		     <tr>
+		      <td class="ta">是否数量限制</td>
+		      <td colspan="2">
+		      <!-- 0 -->
+		      否
+		      </td>
+		      <td class="ta">是否涉及中介机构</td>
+		      <td>
+		      <!-- 0 -->
+		      否
+		      </td>
+		    </tr>
+		     <tr>
+		      <td class="ta">是否联办</td>
+		      <td colspan="2">
+		      <!-- 0 -->
+		      否
+		      </td>
+		      <td class="ta">联办部门</td>
+		      <td>无</td>
+		    </tr>
+		     
+		    </tbody>
+		    </table>

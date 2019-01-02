@@ -1,0 +1,77 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1.卫生许可证申请书应主要审查以下内容：a)	申请人所填信息是否正确、完整；b)	申请人所填信息是否与相应原件信息一致。2.卫生管理制度应主要审查：a） 所提供的材料内容是否符合《生活饮用水集中式供水单位卫生规范》（卫法监发〔2001〕161号）卫生标准。3.二次供水设施场所平面布局图应主要审查以下内容：a)	所提供的平面布局是否符合《二次供水设施卫生规范》（GB17051-1997）标准；4.二次供水过滤、软化、消毒设备、防腐涂料等卫生许可批件复印件应主要审查以下内容：a)	所提供的复印件是否与原件一致；b)	所提供的卫生批件复印件在4年有效期内 。5.水质检测报告应主要审查以下内容：a)	所提供的材料内容是否符合供水单位卫生标准《生活饮用水卫生标准》（GB5749-2006）；b)	检测机构是否具有相应资质。6.健康证复印件应主要审查：a) 所提供的复印件是否与原件一致，是否在有效期内，是否允许执业。
+							 <!-- <span>
+1.卫生许可证申请书应主要审查...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">接件人员根据下列情况分别作出处理：a)申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	纸质审查标准与形式审查标准一致。
+							 <!-- <span>
+纸质审查标准与形式审查标准一...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">审图</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	审查标准-应主要审查以下内容：所提供的平面布局是否符合《二次供水设施卫生规范》（GB17051-1997）标准
+							 <!-- <span>
+审查标准-应主要审查以下内容...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;">《生活饮用水卫生监督管理办法》（建设部、卫生部令第53号，2016年修改）第8条；</td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">4</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">a) 申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b) 依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

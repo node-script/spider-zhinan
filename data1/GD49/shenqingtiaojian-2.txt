@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		a)属于在外国取得合法行医权的外籍医师；<br>b)事先依法获得入境签证，入境后按有关规定办理居留或停留手续。<br>申请条件：《外国医师来华短期行医暂行管理办法》（卫生部令第24号，2016年修订）第2条、第4条、第5条、第13条
+			
+		</div>

@@ -1,0 +1,77 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1印鉴卡》申请表：应主要审查以下内容：a)  申请人所填信息是否正确、完整；b)  申请人所填信息是否与相应原件信息一致；c)  提出申请的医疗机构与批准部门是否都加盖公章。2　《医疗机构执业许可证》副本：应主要审查：所提供复印件是否与原件一致，是否在有效期内。3　麻醉和第一类精神药品安全储存设施情况及相关管理制度：应主要审查以下内容：a)  储存设备彩色照片是否照到设备全貌，设备是否可以满足储存第一类精神药品的安全性和有效性需求；b） 储存设备合格证明是否为正规公司出具（提交合格证明复印件），储存设备使用文字说明是否可以完整阐述设备使用方法及使用规定；c） 相关管理制度是否涉及所有麻醉和第一类精神药品相关的科室，并结合医疗机构的具体情况来评判制度是否科学合理。4　从事麻醉和第一类精神药品管理的药学专业技术人员情况表：应主要审查：a)  所提供复印件是否与原件一致；b)  申请人所填信息是否正确、完整；c)  申请人所填信息是否与相应原件信息一致。5　获得麻醉和第一类精神药品处方资格的执业医师情况表：应主要审查：a)  所提供复印件是否与原件一致；b)  申请人所填信息是否正确、完整；c)  申请人所填信息是否与相应原件信息一致；d） 申请人所填写的培训经历是否都有相关证明支持。
+							 <!-- <span>
+1印鉴卡》申请表：应主要审查...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">接件人员根据下列情况分别作出处理：a)	申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)	申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	接件人员根据下列情况分别作出处理：a)	申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)	申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。
+							 <!-- <span>
+接件人员根据下列情况分别作出...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">现场踏勘</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	麻醉药品和第一类精神药品使用许可操作程序应涉及现场踏勘，现场踏勘适用于首次申请《麻醉药品、第一类精神药品购用印鉴卡》的医疗机构。现场踏勘主要审查以下内容：a)  所提供材料说明是否与实际情况一致；b)  所提交的人员名单中涉及的人员是否都在岗，资质证明是否齐全；c)  机构中与麻醉和第一类精神药品相关的人员是否都熟知此类药品特性，是否都清晰知晓与此类药品相关的本医疗机构制定的储存、使用、管理的相关制度；d)  相关管理制度是否都已上墙；e)  各种与麻醉和第一类精神药品储存、使用、管理的记录是否清晰可查，是否妥善存档。
+							 <!-- <span>
+麻醉药品和第一类精神药品使用...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">4</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)	申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b)	依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

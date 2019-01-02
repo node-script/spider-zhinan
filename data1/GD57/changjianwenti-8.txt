@@ -1,0 +1,9 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				
+						<tr>
+							 <td class="ta" style="text-align: left;">1、如何撤销办理?</td>
+						</tr>
+						<tr>
+							<td style="text-align: left;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)	申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b)	依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+						</tr>	
+			</table>

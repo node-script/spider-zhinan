@@ -1,0 +1,77 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	参见申请材料“审查标准”
+							 <!-- <span>
+参见申请材料“审查标准”							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">"a) 申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b) 申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。"</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	纸质审查标准与形式审查标准一致
+							 <!-- <span>
+纸质审查标准与形式审查标准一致							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">听证、招标、拍卖、检验、检测、检疫、鉴定或专家评审</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	"a)  拟设机构科室布局是否符合《计划生育技术服务机构设置标准》（国计生发〔2001〕150号）和《计划生育技术服务项目评审基本标准(一)》（国计生发〔2001〕140号）中规定的卫生学要求；b)  拟设机构设备是否满足《计划生育技术服务机构设置标准》（国计生发〔2001〕150号）和《计划生育技术服务项目评审基本标准(一)》（国计生发〔2001〕140号）中规定的开展计划生育技术服务业务需求；c)  医务工作人员是否具有相关业务的资格证书且在有效期内，是否与申请材料中填写的工作人员一致，并能通过专家现场考核。"
+							 <!-- <span>
+"a)  拟设机构科室布局是否符...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">4</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">"a) 申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b) 依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。"</td>
+							 
+						</tr>	
+			</table>

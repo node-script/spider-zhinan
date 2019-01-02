@@ -1,0 +1,260 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="20180203095021001115" sxid="1201160000003007178471561">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">20180203095021001115</td>
+					<td style="text-align: center;">社会组织变更登记申请表</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，一式两份，基本信息与社会组织登记信息一致，填写说明及申请表见附录A、B">申请表可到天津市（...</td> -->
+					<td style="text-align: center;">申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，一式两份，基本信息与社会组织登记信息一致，填写说明及申请表见附录A、B</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('FCD3EF3B-849A-457C-B9BA-E5AB0C89732A','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('270F2532-8B8A-41E3-ABDB-71CED7880C7C','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D270F2532-8B8A-41E3-ABDB-71CED7880C7C');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180203105608001134" sxid="1201160000003007178471561">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">20180203105608001134</td>
+					<td style="text-align: center;">原法定代表人任职期间的财务审计报告和拟任法定代表人基本情况及身份证明（变更法定代表人时提交）</td>
+					<td style="text-align: center;">财务审计报告从有资质的会计师事务所取得</td>
+<!-- 					<td style="text-align: center;" title="1）材料一式两份。2）财务审计报告应符合非营利组织会计制度。3）离任审计报告，审计时间应从法定代表人任职开始，截止至提交纸质材料前1个月内，旨在明确原法定代表人任职期间的工作情况和财务状况，如审计结论中存在问题，社会组织应就问题出现的原因和整改措施作出书面报告，经业务主管单位审查盖章后一并提交。4）法定代表人登记表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，基本信息填写完整，填写说明及申请表见附录C、D。">1）材料一式两份。2...</td> -->
+					<td style="text-align: center;">1）材料一式两份。2）财务审计报告应符合非营利组织会计制度。3）离任审计报告，审计时间应从法定代表人任职开始，截止至提交纸质材料前1个月内，旨在明确原法定代表人任职期间的工作情况和财务状况，如审计结论中存在问题，社会组织应就问题出现的原因和整改措施作出书面报告，经业务主管单位审查盖章后一并提交。4）法定代表人登记表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，基本信息填写完整，填写说明及申请表见附录C、D。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('8E84E5FC-3F1D-467F-A825-27E997D537B9','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('3A6B4FA4-8F14-43C5-8F57-F17F4E56662E','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D3A6B4FA4-8F14-43C5-8F57-F17F4E56662E');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180203105648001135" sxid="1201160000003007178471561">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">20180203105648001135</td>
+					<td style="text-align: center;">新住所的产权证明或使用证明材料（变更住所时提交）</td>
+					<td style="text-align: center;">新住所产权证由国土资源管理部门出具；新住所使用证明由申请人自行提供</td>
+<!-- 					<td style="text-align: center;" title="1）材料一式两份。2）新住所证明，由提供住所的单位或个人出具证明，并提供房屋产权证复印件，若为租赁的，还须提供租赁合同复印件及房产证复印件；住所为社会组织购买的，须提供买卖合同复印件以及房产证复印件。场所使用证明可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，基本信息填写完整，填写说明及申请表见附录E、F。">1）材料一式两份。2...</td> -->
+					<td style="text-align: center;">1）材料一式两份。2）新住所证明，由提供住所的单位或个人出具证明，并提供房屋产权证复印件，若为租赁的，还须提供租赁合同复印件及房产证复印件；住所为社会组织购买的，须提供买卖合同复印件以及房产证复印件。场所使用证明可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，基本信息填写完整，填写说明及申请表见附录E、F。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('45D27299-90C0-44E0-9663-5C9A6840A21A','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('D20515D4-C719-4D63-A187-B6D8100BB4F6','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3DD20515D4-C719-4D63-A187-B6D8100BB4F6');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="1201160000003007178471561">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="201712041820" sxid="1201160000003007178471561">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">201712041820</td>
+					<td style="text-align: center;">新业务主管单位同意变更的文件（变更业务主管单位时提交）</td>
+					<td style="text-align: center;">新业务主管单位同意变更的文件从新业务主管单位取得； </td>
+<!-- 					<td style="text-align: center;" title="材料一式两份，加盖公章。">材料一式两份，加盖...</td> -->
+					<td style="text-align: center;">材料一式两份，加盖公章。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171204182201" sxid="1201160000003007178471561">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">20171204182201</td>
+					<td style="text-align: center;">验资报告书（变更注册资金时提交）</td>
+					<td style="text-align: center;">验资报告书从有资质的会计师事务所取得； </td>
+<!-- 					<td style="text-align: center;" title="1）材料一式两份。2）验资报告书应符合非营利组织会计制度。">1）材料一式两份。2...</td> -->
+					<td style="text-align: center;">1）材料一式两份。2）验资报告书应符合非营利组织会计制度。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471561">
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180203105729001136" sxid="1201160000003007178471561">
+					<td style="text-align: center;">8</td>
+					<td style="text-align: center;">20180203105729001136</td>
+					<td style="text-align: center;">章程草案（变更名称或业务范围时提交）</td>
+					<td style="text-align: center;">章程草案由申请人自行提供</td>
+<!-- 					<td style="text-align: center;" title="1）材料一式两份。2）社会团体如召开的理事会则提交章程草案，如召开的是会员大会或是会员代表大会则提交章程及章程核准表，民办非企业单位和基金会提交章程及章程核准表，章程骑缝处加盖印章。3）章程及章程核准表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，一式两份，基本信息填写完整，填写说明及申请表见附录G、H">1）材料一式两份。2...</td> -->
+					<td style="text-align: center;">1）材料一式两份。2）社会团体如召开的理事会则提交章程草案，如召开的是会员大会或是会员代表大会则提交章程及章程核准表，民办非企业单位和基金会提交章程及章程核准表，章程骑缝处加盖印章。3）章程及章程核准表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，一式两份，基本信息填写完整，填写说明及申请表见附录G、H</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('699A1849-454C-47BE-99B6-B7A0302376DD','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('137F09EF-84DC-4DDD-B220-AF346780610D','1201160000003007178471561','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D137F09EF-84DC-4DDD-B220-AF346780610D');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

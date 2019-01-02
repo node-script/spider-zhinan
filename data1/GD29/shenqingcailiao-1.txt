@@ -1,0 +1,223 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="20171205224423000791" sxid="1201160000003007178471234">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">20171205224423000791</td>
+					<td style="text-align: center;">放射诊疗许可申请表及电子版</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请表可到天津市（各区）行政许可服务中心现场领取,也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B">申请表可到天津市（...</td> -->
+					<td style="text-align: center;">申请表可到天津市（各区）行政许可服务中心现场领取,也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('5709D810-D8E1-440A-BD8A-9641652FAC5C','1201160000003007178471234','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('B9DA596D-3F0A-48E6-931A-009C74E22A09','1201160000003007178471234','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3DB9DA596D-3F0A-48E6-931A-009C74E22A09');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171205224725000794" sxid="1201160000003007178471234">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">20171205224725000794</td>
+					<td style="text-align: center;">放射诊疗专业技术人员任职资格证书复印件</td>
+					<td style="text-align: center;">申请人自行准备</td>
+<!-- 					<td style="text-align: center;" title="1、放射治疗：中级以上专业技术职务任职资格的放射肿瘤医师，  病理学、医学影像学、医学物理人员、放射治疗技师和维修人员；2、核医学：中级以上专业技术职务任职资格的核医学医师；病理学、医学影像学专业技术人员、大学本科以上学历或中级以上专业技术职务任职资格的技术人员或核医学技师医师；3、介入治疗：大学本科以上学历或中级以上专业技术职务任职资格的放射影像医师、放射影像技师、相关内、外科的专业技术人员；4、X射线影像诊断：放射影像医师。 上述专业技术人员中，医师需提交医师执业证书（从市、区两级行政审批部门取得）、职称证书(从人事部门取得)；技师需提交技师证书（从人事部门取得）、职称证书(从人事部门取得)； 有培训经历的，需提供培训合格证明（从培训医院或天津市卫生计生人才培训和交流服务中心取得）。证书复印完整，公章清晰。">1、放射治疗：中级...</td> -->
+					<td style="text-align: center;">1、放射治疗：中级以上专业技术职务任职资格的放射肿瘤医师，  病理学、医学影像学、医学物理人员、放射治疗技师和维修人员；2、核医学：中级以上专业技术职务任职资格的核医学医师；病理学、医学影像学专业技术人员、大学本科以上学历或中级以上专业技术职务任职资格的技术人员或核医学技师医师；3、介入治疗：大学本科以上学历或中级以上专业技术职务任职资格的放射影像医师、放射影像技师、相关内、外科的专业技术人员；4、X射线影像诊断：放射影像医师。 上述专业技术人员中，医师需提交医师执业证书（从市、区两级行政审批部门取得）、职称证书(从人事部门取得)；技师需提交技师证书（从人事部门取得）、职称证书(从人事部门取得)； 有培训经历的，需提供培训合格证明（从培训医院或天津市卫生计生人才培训和交流服务中心取得）。证书复印完整，公章清晰。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">1</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171205224831000795" sxid="1201160000003007178471234">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">20171205224831000795</td>
+					<td style="text-align: center;">放射诊疗设备清单</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="公章清晰。列明放射诊疗设备和放射防护用品">公章清晰。列明放射...</td> -->
+					<td style="text-align: center;">公章清晰。列明放射诊疗设备和放射防护用品</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180622162735001816" sxid="1201160000003007178471234">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">20180622162735001816</td>
+					<td style="text-align: center;">放射诊疗设备防护性能检测报告</td>
+					<td style="text-align: center;"></td>
+<!-- 					<td style="text-align: center;" title=""></td> -->
+					<td style="text-align: center;"></td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="1201160000003007178471234">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471234','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471234','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471234">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471234','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471234','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171205225025000802" sxid="1201160000003007178471234">
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">20171205225025000802</td>
+					<td style="text-align: center;">本年度放射诊疗设备放射防护性能检测报告</td>
+					<td style="text-align: center;">由具备放射卫生技术服务资质的服务机构出具报告</td>
+<!-- 					<td style="text-align: center;" title="复印件完整，公章清晰">复印件完整，公章清晰</td> -->
+					<td style="text-align: center;">复印件完整，公章清晰</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

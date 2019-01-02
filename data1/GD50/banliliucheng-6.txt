@@ -1,0 +1,61 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1、天津市再生育子女申请表应主要审查以下内容：a)申请人基本信息填写是否正确、完整；b)申请表中承诺是否为申请人本人抄录；c)申请表中夫妻双方是否签字确认；d)子女情况填写是否正确、完整；e)再生育子女适用条款是否选择正确；f)乡、镇人民政府或街道办事处计生部门是否签署意见；g)乡、镇人民政府或街道办事处计生部门的经办人及负责人是否签字；h)乡、镇人民政府或街道办事处计生部门是否加盖公章；i)所提供复印件是否与原件一致；j)所提供户口页是否为夫妻双方及夫妻双方所生育的全部子女的户口页；k)所提供的身份证是否为夫妻双方的身份证；l)所提供离婚判决书、调解书或离婚证、离婚协议书及死亡证明原件是否都加盖相应机关的公章；m)所提供的离婚判决书、调解书或离婚证、离婚协议书及死亡证明是否涵盖所有婚姻过程；n)所提供的离婚判决书、调解书或离婚协议书中子女情况是否与《天津市再生育子女申请表》中子女情况一致。2、双方及子女的身份证（户口页）应主要审查以下内容：a)申请人是否提供了原件；b)证件是否真实有效。3、双方结婚证应主要审查以下内容：a)申请人是否提供了原件；b)证件是否真实有效。
+							 <!-- <span>
+1、天津市再生育子女申请表应...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">接件人员根据下列情况分别作出处理：a)申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	纸质审查标准与形式审查标准一致。
+							 <!-- <span>
+纸质审查标准与形式审查标准一...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b)依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

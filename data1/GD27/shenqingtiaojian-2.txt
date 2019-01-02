@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件包括：<br>a)	开展放射治疗、核医学工作的，向市卫生计生委申请办理；<br>b)	开展介入放射学工作的，向市卫生计生委申请办理；<br>c)	开展X射线影像诊断工作的，向各区行政审批局申请办理。<br>d)	同时开展不同类别放射诊疗工作的，向市卫生计生委申请办理。
+			
+		</div>

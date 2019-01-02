@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件包括：<br>a)	生产经营环境达到《生活饮用水水质卫生规范》（2006）；<br>b)	直接从事供、管水的人员健康体检合格，取得健康证明。
+			
+		</div>

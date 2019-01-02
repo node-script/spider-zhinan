@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		具有计划生育技术服务人员《合格证》<br><br>申请条件依据：《计划生育技术服务管理条例实施细则》（国家计划生育委员会令第6号，2001年）第32条、第33条、第36条
+			
+		</div>

@@ -1,0 +1,207 @@
+﻿<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tab02">
+					<col width="16%">
+					<col width="12%">
+					<col width="25%">
+					<col width="16%">
+					<col width="25%">
+					  	<tbody>
+					    <tr>
+					      <td class="ta">事项类型</td>
+					      <td colspan="2">
+						      行政许可
+						      		（普通）
+						      								      	
+						      					      </td>
+					      <td class="ta">办理对象</td>
+					      <td>
+					                                            全部
+					      </td>
+					    </tr>
+					     <tr>
+					      <td class="ta">行政审批主体</td>
+					      <td colspan="2">
+					      	天津市自贸试验区、滨海新区、各区行政审批局应是放射工作人员许可行政审批的主体
+					      
+					      </td>
+					      <td class="ta">行使层级</td>
+					      <td>
+						      市级
+						      					      </td>
+					    </tr>
+					     <tr>
+					      <td class="ta">是否马上办</td>
+					      <td colspan="2">
+						      是
+						      					      
+						</td>
+					      <td class="ta">业务主管部门</td>
+					      <td>
+					                      市卫计委
+					      
+					      </td>
+					    </tr>
+					     <tr>
+					      <td class="ta">办理部门</td>
+					      <td colspan="2">
+					                      生态城审批局
+					      </td>
+					      <td class="ta">实施编码</td>
+					      <td>120116000000300717847104</td>
+					    </tr>
+					     <tr>
+					      <td class="ta">咨询电话</td>
+					      <td colspan="2">022-67288959</td>
+					      <td class="ta">监督电话</td>
+					      <td>022-66328010</td>
+					    </tr>
+					     <tr>
+					      <td class="ta">办理地点</td>
+					      <td colspan="2">天津市滨海新区于家堡融合路681号，宝策大厦滨海新区行政服务中心</td>
+					      <td class="ta">通办范围</td>
+					      <td>
+						      跨区
+						      					      </td>
+					    </tr>
+					     <tr>
+					      <td class="ta">法定办理时限</td>
+					      <td colspan="2">
+					      	20个工作日 
+					      </td>
+					      <td class="ta">承诺办理时限</td>
+					      <td>
+1 个工作日 
+					      </td>
+					    </tr>
+					    <tr>
+					      <td class="ta">有效期限</td>
+					      <td colspan="2">长期有效。</td>
+					      <td class="ta">适用范围</td>
+					      <td><!-- 1 -->
+						      全国
+						      					      </td>
+					    </tr>
+					     <tr>
+						      <td class="ta">是否预约审批</td>
+						     <td colspan="2">
+								      是
+								      								</td>
+						      <td class="ta">预约审批电话</td>
+						      <td>
+						      		022-67288959
+						      		 						      </td>
+					    </tr>
+					    <tr>
+						      <td class="ta">到现场办事次数</td>
+						     <td colspan="2">
+								      1次
+								      
+								</td>
+						      <td class="ta">权力来源</td>
+						      <td>
+								      法定机关
+								      
+														      </td>
+					    </tr>					    
+					    <tr>
+						      <td class="ta">是否涉及特殊环节</td>
+						     <td colspan="2">
+否
+								</td>
+						      <td class="ta">受理时间</td>
+						      <td>
+						      		工作日上午：9:00至12:00下午：13:00至16:30 
+						      		 						      </td>
+					    </tr>					    
+					    <tr>
+					    	  <td class="ta">是否网上办事项</td>
+						      <td colspan="2">
+						      		是
+						      		 						      </td>	
+					    	  <td class="ta">是否就近办事项</td>
+						      <td colspan="2">
+否
+						      </td>							      				    	
+					    </tr>
+					    <tr>
+					    	  <td class="ta">是否一次办事项</td>
+						      <td colspan="2">
+						      		是
+						      		 						      </td>	
+					    	  <td class="ta">是否无人审批事项</td>
+						      <td colspan="2">
+否
+						      </td>							      				    	
+					    </tr>	
+					    <tr>
+					    	  <td class="ta">是否承诺审批事项</td>
+						      <td colspan="2">
+						      		是
+						      		 						      </td>	
+					    	  <td class="ta">是否以函代办事项</td>
+						      <td colspan="2">
+否
+						      </td>							      				    	
+					    </tr>
+					    <tr>
+					    	  <td class="ta">是否同城通办事项</td>
+						      <td colspan="4">
+否
+						      </td>	
+						      				    	
+					    </tr>					    						    
+					    <tr>
+					      <td class="ta">办件公示</td>
+					      <td colspan="2">
+					      否
+					      </td>
+					      <td colspan="2">
+					      <input type="button" value="在线预约" onclick="zxyy();" class="but">   
+					      
+					        <a onclick="wssb('120116000000300717847104')" href="javascript:void(0)"><input type="button" value="在线申报" class="but4"></a>
+											<input type="button" value="收藏" class="but4" style="background: #aaa;" onclick="dengl();">
+					      <input type="button" value="下载打印本规程" onclick="downAllText('120116000000300717847104');" class="but4">
+					      </td>
+					      
+					    </tr>
+					    <tr>
+					      <td rowspan="1" class="ta">审批收费</td>
+					      <td class="ta">是否收费</td>
+					      <td colspan="3">
+					      不收费
+					      </td>
+					    </tr>
+					    <tr>
+					      <td rowspan="6" class="ta">实施权限</td>
+					    </tr>
+					     <tr>
+					      <td class="ta">市级权限</td>
+					      <td colspan="3"> 本行政区域内，不应有此权限。</td>
+					    </tr>
+						   	<tr>
+						      <td class="ta">自贸试验区权限</td>
+						      <td colspan="3">本行政区域内申请。
+							</td>
+						    </tr>
+						   	<tr>
+						      <td class="ta">滨海新区权限</td>
+						      <td colspan="3">本行政区域内申请。
+							</td>
+						    </tr>
+						   	<tr>
+						      <td class="ta">市区权限</td>
+						      <td colspan="3">本行政区域内申请。
+							</td>
+						    </tr>
+						   	<tr>
+						      <td class="ta">郊区权限</td>
+						      <td colspan="3">本行政区域内申请。
+							</td>
+						    </tr>
+					    <tr>
+					    <td class="ta">办理次数</td>
+					    <td colspan="4">
+						 	55次		
+					    </td>
+					    </tr>
+					  </tbody>
+					</table>

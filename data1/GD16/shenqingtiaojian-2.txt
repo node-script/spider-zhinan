@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件包括：<br>a)因分立或者合并而保留的医疗机构应当申请变更登记；<br>b)医疗机构变更名称、地址、法定代表人或者主要负责人、所有制形式、服务对象、服务方式、注册资金（资本）、诊疗科目、床位（牙椅）的必须向登记机关申请办理变更登记。
+			
+		</div>

@@ -1,0 +1,30 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta">序列</td>
+					<td class="ta">法律名称</td>
+					<td class="ta">条数</td>
+<!-- 					<td class="ta" >正文</td>  -->
+					<td class="ta">附件</td>
+					
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">中华人民共和国传染病防治法</td>
+							 <td style="text-align: center;">29</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+						
+							</td>  
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">国务院对确需保留的行政审批项目设定行政许可的决定（2004年国务院令第412号）</td>
+							 <td style="text-align: center;">200</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+						
+							</td>  
+						</tr>	
+				
+			</table>

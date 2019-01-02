@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "escape-html": "^1.0.3",
+    "fs": "^0.0.1-security",
+    "html-minifier": "^3.5.21",
+    "iconv-lite": "^0.4.24",
+    "libxmljs": "^0.19.5",
+    "osmosis": "^1.1.8",
+    "parse5": "^5.1.0",
+    "xmldom": "^0.1.27",
+    "xmlserializer": "^0.6.1",
+    "xpath": "0.0.27",
+    "xpath.js": "^1.1.0"
+  }
+}

@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		a) 有与使用麻醉药品和第一类精神药品相关的诊疗科目；<br>b) 具有经过麻醉和第一类精神药品培训的、专职从事麻醉和第一类精神药品管理的药学专业技术人员；<br>c) 有获得麻醉和第一类精神药品处方资格的执业医师；<br>d) 有保证麻醉和第一类精神药品安全储存的设施和管理制度。
+			
+		</div>

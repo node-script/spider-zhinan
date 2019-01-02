@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		a)有设置医疗机构批准书。<br>b)符合医疗机构的基本标准。<br>c)有适合的名称、组织机构和场所。<br>d)有与其开展的业务相适应的经费、设施、设备和专业卫生技术人员。<br>e)有相应的规章制度。<br>f)能够独立承担民事责任。<br>申请条件依据：<br>《医疗机构管理条例》（国务院令第149号，2016年修订）第16条；
+			
+		</div>

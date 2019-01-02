@@ -1,0 +1,61 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1　母婴保健技术服务执业许可补发申请表应主要审查以下内容：a)	查看申请表项目是否填写准确、完整；b)	是否加盖本单位公章。2　医疗机构执业许可证正、副本复印件、未遗失的母婴保健技术服务执业许可证正、副本原件或复印件应主要审查以下内容：a)	查看医疗机构执业许可证及其副本是否在有效期内，信息是否真实。b)	查看未遗失的母婴保健技术服务执业许可证正本或副本是否真实有效，信息是否真实。
+							 <!-- <span>
+1　母婴保健技术服务执业许可...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">接件人员根据下列情况分别作出处理：a)	申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)	申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	接件人员根据下列情况分别作出处理：a)	申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)	申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。
+							 <!-- <span>
+接件人员根据下列情况分别作出...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)	申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b)	依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

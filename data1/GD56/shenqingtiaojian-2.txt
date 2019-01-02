@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件为：自业务主管单位审查同意之日起30日内，向登记管理机关申请变更登记。
+			
+		</div>

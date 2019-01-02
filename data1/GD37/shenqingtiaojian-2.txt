@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件包括：<br>医疗保健机构持有的本市核发的《母婴保健技术服务执业许可证》发生遗失的。
+			
+		</div>

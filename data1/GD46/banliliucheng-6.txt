@@ -1,0 +1,61 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	9.5.1.1　医师执业、变更执业、多机构备案申请审核表应主要审查：《医师执业、变更执业、多机构备案申请审核表》中的内容填写是否规范。9.5.1.2　《医师执业证》应主要审查： 与《医师执业、变更执业、多机构备案申请审核表》所填信息是否相符。9.5.1.3　学历证或培训考核合格证明应主要审查以下内容：a）学历证的专业应与所申请的拟注册执业范围一致；b）培训机构、考核机构、培训时间、培训内容均应符合变更执业范围的相关规定。
+							 <!-- <span>
+9.5.1.1　医师执业、变更执业...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	纸质审查主要审查以下内容：a） 医师变更注册申请审核表中的内容填写是否规范；b） 该医师拟变更的执业范围是否在该执业机构／主要执业机构开设的诊疗科目范围内；c） 学历证的专业应与所申请的拟注册执业范围一致；培训考核证明材料中的培训机构、考核机构、培训时间、培训内容均应符合变更执业范围的相关规定。
+							 <!-- <span>
+纸质审查主要审查以下内容：a...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，签发《准予行政许可决定书》，在《医师执业证》上打印变更记录；b)网上审批事项申请材料齐全、符合法定形式的，应在网上作出行政许可决定，申请人持纸质申请材料到市或区县行政许可服务中心办理窗口取件，审批工作人员现场核验纸质材料与电子材料，核验无误后，立即签发《准予行政许可决定书》，在《医师执业证》上打印变更记录；依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》见附录F，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

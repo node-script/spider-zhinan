@@ -1,0 +1,198 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="ZL20170042" sxid="1201160000003007178471168">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">ZL20170042</td>
+					<td style="text-align: center;">天津市中等及中等以下民办学校变更申请表</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="d)申请表可到自贸区、各区县行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录M、N。">d)申请表可到自贸区...</td> -->
+					<td style="text-align: center;">d)申请表可到自贸区、各区县行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录M、N。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('3396D1CC-2CFD-4EEB-AE75-5CDFA161CE21','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('47427084-C681-4DB3-BBBA-69A5FF6276BA','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D47427084-C681-4DB3-BBBA-69A5FF6276BA');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZL20170053" sxid="1201160000003007178471168">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">ZL20170053</td>
+					<td style="text-align: center;">民办学校决策机构决议等有关材料</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="d)需提交民办学校原决策机构同意变更举办者的决议、民办学校新组成决策机构所有成员名单、民办学校新组成决策机构决议。——民办学校原决策机构同意变更举办者的决议。决议需载明会议时间、决议内容，附所有决策机构成员签字。决议填写说明及模板见附录C、D，申请人可到自贸区、各区县行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载；——民办学校新组成决策机构所有成员名单。名单含姓名、性别、身份证号码、身份等信息，加盖民办学校公章。名单的填写说明及空白表格见附录E、F，申请人可到自贸区、各区县行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载；——民办学校新组成决策机构决议。决议需载明会议时间、地点、决议内容，决议内容包括选举理事长或董事长、通过学校办学章程和任命校长等有关事项，附所有决策机构成员签字。决议填写说明及模板见附录C、D。">d)需提交民办学校原...</td> -->
+					<td style="text-align: center;">d)需提交民办学校原决策机构同意变更举办者的决议、民办学校新组成决策机构所有成员名单、民办学校新组成决策机构决议。——民办学校原决策机构同意变更举办者的决议。决议需载明会议时间、决议内容，附所有决策机构成员签字。决议填写说明及模板见附录C、D，申请人可到自贸区、各区县行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载；——民办学校新组成决策机构所有成员名单。名单含姓名、性别、身份证号码、身份等信息，加盖民办学校公章。名单的填写说明及空白表格见附录E、F，申请人可到自贸区、各区县行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载；——民办学校新组成决策机构决议。决议需载明会议时间、地点、决议内容，决议内容包括选举理事长或董事长、通过学校办学章程和任命校长等有关事项，附所有决策机构成员签字。决议填写说明及模板见附录C、D。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('772B9823-92F0-4397-B8C4-5AA6DD538B2F','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('F641CD4C-043D-4573-9743-93A00EDF05F6','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3DF641CD4C-043D-4573-9743-93A00EDF05F6');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZL20170056" sxid="1201160000003007178471168">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">ZL20170056</td>
+					<td style="text-align: center;">财务清算审计报告书</td>
+					<td style="text-align: center;">从中介机构取得，由具备资质的会计师事务所出具；</td>
+<!-- 					<td style="text-align: center;" title="d)提供原件及加盖学校公章的复印件，原件扫描核对后返还，复印件留存。">d)提供原件及加盖学...</td> -->
+					<td style="text-align: center;">d)提供原件及加盖学校公章的复印件，原件扫描核对后返还，复印件留存。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="1201160000003007178471168">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471168">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471168','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZL20170057" sxid="1201160000003007178471168">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">ZL20170057</td>
+					<td style="text-align: center;">办学许可证正、副本</td>
+					<td style="text-align: center;">申请人自行政审批部门取得</td>
+<!-- 					<td style="text-align: center;" title="应提供正、副本原件，副本上应有相应年度的年检合格记录并加盖区县教育行政部门公章。">应提供正、副本原件...</td> -->
+					<td style="text-align: center;">应提供正、副本原件，副本上应有相应年度的年检合格记录并加盖区县教育行政部门公章。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

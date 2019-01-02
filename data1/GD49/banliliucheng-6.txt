@@ -1,0 +1,61 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1.外籍医师在华短期行医执业注册申请表    应主要审查：外籍医师在华短期行医执业注册申请表中的内容填写是否规范。2.学位证书及其公证件    应主要审查：与申请人信息是否相符。3.外国行医执照或行医权证明及其公证件    应主要审查以下内容：a)与申请人信息是否相符；b)行医执照是否有执业科目，如有，审查与申请的医疗项目是否吻合。4.外籍医师体格检查健康证明应主要审查：是否是医疗机构出具的有效体检报告。
+							 <!-- <span>
+1.外籍医师在华短期行医执业注...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">a)申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	a)外籍医师在华短期行医执业注册申请表中的内容填写是否规范；b)审查文字材料的真实性；审查外国行医执照是否有执业科目：如有，应与申请的医疗项目吻合；否则申请的执业范围应符合我国执业医师执业范围的规定。
+							 <!-- <span>
+a)外籍医师在华短期行医执业注...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">a)申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，签发《准予行政许可决定书》；b)网上审批事项申请材料齐全、符合法定形式的，应在网上作出行政许可决定，申请人持纸质申请材料到市或区县行政许可服务中心办理窗口取件，审批工作人员现场核验纸质材料与电子材料，核验无误后，立即签发《准予行政许可决定书》；依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》见附录F，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

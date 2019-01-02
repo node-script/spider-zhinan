@@ -1,0 +1,61 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1.社会组织变更登记申请表应主要审查以下内容：a)  一式两份；b)  表格内容填写完整并与登记信息一致；c)	按照章程规定履行了内部程序；d)  经原法定代表人签字盖章、社会组织盖章、业务主管单位审查同意。2.原法定代表人任职期间的财务审计报告和拟任法定代表人基本情况及身份证明（变更法定代表人时提交）应主要审查：a)一式两份；b）财务审计报告应符合非营利组织会计制度。离任审计报告，审计时间应从法定代表人任职开始，截止至提交纸质材料前1个月内，旨在明确原法定代表人任职期间的工作情况和财务状况，如审计结论中存在问题，社会组织应就问题出现的原因和整改措施作出书面报告，经业务主管单位审查盖章后一并提交。法定代表人登记表简历从工作开始写到现在，照片为近期免冠照片；身份证明须是拟任法定代表人合法有效的身份证复印件，复印件与原件一致，清晰。3.新住所的产权证明或使用证明材料（变更住所时提交）应主要审查：a)一式两份；b）新住所证明，由提供住所的单位或个人出具证明，并提供房屋产权证复印件，若为租赁的，还须提供租赁合同复印件及房产证复印件；住所为社会组织购买的，须提供买卖合同复印件以及房产证复印件。4.章程草案（变更名称或业务范围时提交）应主要审查：a)一式两份；b）社会团体如召开的理事会则提交章程草案，如召开的是会员大会或是会员代表大会则提交章程及章程核准表，民办非企业单位和基金会提交章程及章程核准表，章程骑缝处加盖印章。5.新业务主管单位同意变更的文件（变更业务主管单位时提交）应主要审查：a)一式两份；b）新业务主管单位同意变更，加盖公章。6.验资报告书（变更注册资金时提交）应主要审查：a)一式两份；b）验资报告书符合非营利组织会计制度。
+							 <!-- <span>
+1.社会组织变更登记申请表应主...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">接件人员根据下列情况分别作出处理：a)	申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)	申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	纸质审查标准与形式审查标准一致
+							 <!-- <span>
+纸质审查标准与形式审查标准一致							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)	申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b)	网上审批事项申请材料齐全、符合法定形式的，应在网上作出行政许可决定，申请人持纸质申请材料到市或区县行政许可服务中心办理窗口取件，审批工作人员现场核验纸质材料与电子材料，核验无误后，立即签发《准予行政许可决定书》；c)	依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

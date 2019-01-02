@@ -1,0 +1,166 @@
+﻿<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tab02">
+					<col width="16%">
+					<col width="12%">
+					<col width="25%">
+					<col width="16%">
+					<col width="25%">
+					  	<tbody>
+					    <tr>
+					      <td class="ta">事项类型</td>
+					      <td colspan="2">
+						      公共服务
+					      </td>
+					      <td class="ta">办理对象</td>
+					      <td>
+					                                            自然人
+					                                            
+					      </td>
+					    </tr>
+					     <tr>
+					     
+					      <td class="ta">行使层级</td>
+					      <td colspan="2">
+						      区县级
+						      					      </td>
+					      <td class="ta">办理部门</td>
+					      <td>
+					                      滨海新区卫生和计划生育委员会
+					      </td>
+					      
+					    </tr>
+					    <tr>
+					    <td class="ta">实施主体性质</td>
+					    <td colspan="4">
+						      法定机关
+						      					    	
+					    </td>
+					    </tr>
+					     <tr>
+					      <td class="ta">是否马上办</td>
+					      <td colspan="2">
+						      否
+					      
+						</td>
+					      <td class="ta">业务主管部门</td>
+					      <td>
+					                      市卫计委
+					      
+					      </td>
+					    </tr>
+					    
+					     <tr>
+					      <td class="ta">咨询电话</td>
+					      <td colspan="2">022-65305773</td>
+					      <td class="ta">监督电话</td>
+					      <td>022-65305877</td>
+					    </tr>
+					     <tr>
+					      <td class="ta">办理地点</td>
+					      <td colspan="2">各村居</td>
+					      <td class="ta">通办范围</td>
+					      <td>
+						      本级
+					      </td>
+					    </tr>
+					     <tr>
+					      <td class="ta">法定办理时限</td>
+					      <td colspan="2">
+					      	无个工作日 
+					      </td>
+					      <td class="ta">承诺办理时限</td>
+					      <td>
+0 个工作日 
+					      </td>
+					    </tr>
+					     <tr>
+						      <td class="ta">是否预约审批</td>
+						     <td colspan="2">
+								      否
+								</td>
+						      <td class="ta">预约审批电话</td>
+						      <td>
+无预约电话
+						      </td>
+					    </tr>					    
+					    <tr>
+						      <td class="ta">是否涉及特殊环节</td>
+						     <td colspan="2">
+								      专家评审,现场踏勘,检验,检测,检疫,招标,拍卖,听证,鉴定,结果公示,过程公示
+								      								</td>
+						      <td class="ta">受理时间</td>
+						      <td>
+						      		每年1月1日至3月31日集中办理
+						      		 						      </td>
+					    </tr>
+					    <tr>
+					      	<td class="ta">到现场办事次数</td>
+						     <td colspan="2">
+								      1次
+								      
+								</td>	
+					    	  <td class="ta">是否就近办事项</td>
+						      <td colspan="2">
+否
+						      </td>							      				    	
+					    </tr>
+					    <tr>
+					    	  <td class="ta">是否一证通办事项</td>
+						      <td colspan="2">
+否
+						      </td>	
+					    	  <td class="ta">是否无人审批事项</td>
+						      <td colspan="2">
+否
+						      </td>							      				    	
+					    </tr>	
+					    <tr>
+					    	  <td class="ta">是否承诺审批事项</td>
+						      <td colspan="2">
+否
+						      </td>	
+					    	  <td class="ta">是否以函代办事项</td>
+						      <td colspan="2">
+否
+						      </td>							      				    	
+					    </tr>
+
+					    <tr>
+					      <td class="ta">办件公示</td>
+					      <td colspan="2">
+					      否
+					      </td>
+					      <td colspan="2">
+					      <input type="button" value="在线预约" onclick="zxyy();" class="but">   
+					      <a href="javascript:void(0);"><input onclick="zxyy();" type="button" value="在线申报" class="but4"></a>
+											<input type="button" value="收藏" class="but4" style="background: #aaa;" onclick="dengl();">
+					      <input type="button" value="下载打印本规程" onclick="downAllText('120116000000553403360109');" class="but4">
+					      </td>
+					      
+					    </tr>
+					    <tr>
+					      <td rowspan="1" class="ta">审批收费</td>
+					      <td class="ta">是否收费</td>
+					      <td colspan="3">
+					      不收费
+					      </td>
+					    </tr>
+					    <tr>
+					      <td rowspan="2" class="ta">实施权限</td>
+					      <td class="ta">权限划分</td>
+					      <td colspan="3">
+					      无
+					      </td>
+					    </tr>
+					    <tr>
+					      <td class="ta">行使内容</td>
+					      <td colspan="3">无
+						</td>
+					    </tr>
+					    <tr>
+					    <td class="ta">办理次数</td>
+					    <td colspan="4">
+						 	0次		
+					    </td>
+					    </tr>					    
+					  </tbody>
+					</table>

@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;">
+		<div class="spacing"></div>
+				<div style="text-align:center"><a href="http://zwfw.tj.gov.cn/fileService/downloadFile.jspx?fileid=9A2CFC72-31FA-4AFD-A50E-10ABD943288C">附件下载</a></div>
+		
+		</div>

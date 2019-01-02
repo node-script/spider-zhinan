@@ -1,0 +1,93 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1　《消毒产品生产企业卫生许可证》变更申请表应主要审查以下内容：a)	表中填写内容是否齐全、规范；b)	表中填写内容与其余材料体现的信息是否一致，具体填写要求见附录A。2　公安或工商部门等出具的变更情况真实性的证明材料应主要审查：变更信息内容与申请表中填写一致。3　《消毒产品生产企业卫生许可证》原件及复印件应主要审查：《消毒产品生产企业卫生许可证》是否在有效期限内。4　营业执照复印件或企业名称预先核准通知书复印件应主要审查：《营业执照》原件或企业名称预先核准通知书和复印件内容是否一致，《营业执照》或企业名称预先核准通知书上的主体名称与申请方是否一致；5　生产场地使用证明（房屋产权证明或租赁协议）应主要审查：产权是申请方的，产权证明上的主体名称应与申请方一致；如果是租赁关系，租赁合同上的出租方产权证明应合法有效。6　生产场所厂区平面图、生产车间布局平面图应主要审查以下内容：a)  标注厂区四邻情况，核查四邻是否有可能污染产品生产的有害场所，周围有无积水、杂草、生活垃圾、蚊蝇等有害医学昆虫孳生地。b)  标明生产车间的使用面积及车间高度，核查生产车间使用面积应不小于100平方米，净高不低于2.5米; 若为分装企业生产车间使用面积不小于60平方米；c)	标注主要生产设备位置；d)	标注人流、物流走向，核查是否存在交叉。7　生产工艺流程图应主要审查以下内容：a)  标注工序先后顺序衔接是否合理；b)	标注生产工艺中关键环节控制点。8　生产和检验设备清单应主要审查：是否具备适合消毒产品生产特点和工艺、满足生产需要、保证产品质量的生产设备和检验仪器设备。9　质量保证体系文件应主要审查：是否具备消毒产品生产标准操作规程、人员岗位责任制度、生产人员个人卫生制度、设备采购和维护制度、卫生质量检验制度、留样制度、物料采购制度、原材料和成品仓储管理制度、销售登记制度、产品投诉与处理制度、不合格产品召回及其处理制度等。10　拟生产产品目录应主要审查：生产产品目录内容是否与申报产品类别一致。11　生产环境和生产用水检测报告应主要审查以下内容：a)  报告出具单位是否收录到卫生评价中介机构名单中；b)	报告中所列项目及结果是否满足生产产品类别的要求。
+							 <!-- <span>
+1　《消毒产品生产企业卫生许...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">接件人员根据下列情况分别作出处理：a)	申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)	申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	纸质审查标准与形式审查标准一致。
+							 <!-- <span>
+纸质审查标准与形式审查标准一...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">现场踏勘</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	变更操作程序应涉及现场踏勘（仅限变更生产方式、生产项目、生产类别）。现场踏勘主要审查以下内容：a) 厂区环境与布局要求应满足《消毒产品生产企业卫生规范（2009版）》第3条至第9条要求；b) 生产区卫生要求应满足《消毒产品生产企业卫生规范（2009版）》第10条至第19条要求；c) 设备要求应满足《消毒产品生产企业卫生规范（2009版）》第20条至第28条要求；d) 物料和仓储要求应满足《消毒产品生产企业卫生规范（2009版）》第29条至第35条要求；e) 卫生质量管理要求应满足《消毒产品生产企业卫生规范（2009版）》第36条至第44条要求；f) 人员要求应满足《消毒产品生产企业卫生规范（2009版）》第45条至第49条要求。
+							 <!-- <span>
+变更操作程序应涉及现场踏勘（...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">4</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">审图</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	变更操作程序应涉及审图（仅限变更生产方式、生产项目、生产类别）。审图主要审查以下内容：a) 标注厂区四邻情况，核查四邻是否有可能污染产品生产的有害场所，周围有无积水、杂草、生活垃圾、蚊蝇等有害医学昆虫孳生地。b) 标明生产车间的使用面积及车间高度，核查生产车间使用面积应不小于100平方米，净高不低于2.5米; 若为分装企业生产车间使用面积不小于60平方米；c)标注主要生产设备位置；d)标注人流、物流走向，核查是否存在交叉。
+							 <!-- <span>
+变更操作程序应涉及审图（仅限...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">5</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">a) 申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b) 网上审批事项申请材料齐全、符合法定形式的，应在网上作出行政许可决定，申请人持纸质申请材料到市或区县行政许可服务中心办理窗口取件，审批工作人员现场核验纸质材料与电子材料，核验无误后，立即签发《准予行政许可决定书》；c) 依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

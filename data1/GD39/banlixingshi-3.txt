@@ -1,0 +1,100 @@
+﻿<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tab02">
+		<col width="16%">
+		<col width="6%">
+		<col width="25%">
+		<col width="16%">
+		<col width="31%">
+		  <tbody>
+		    <!-- <tr>
+		      <td class="ta">是否现场接件</td>
+		      <td colspan="2">
+		     
+		      否
+		      </td>
+		      <td class="ta">现场接件途径</td>
+		      <td></td>
+		    </tr>
+		     <tr>
+		      <td class="ta">是否支持网上接件</td>
+		      <td colspan="2">
+		      是
+		      </td>
+		      <td class="ta">网上接件途径</td>
+		      <td></td>
+		    </tr>
+		     <tr>
+		      <td class="ta">是否支持物流快递</td>
+		      <td colspan="2">
+		      否
+		      </td>
+		      <td class="ta">快递形式</td>
+		      <td></td>
+		    </tr> -->
+		     <tr>
+		      <td class="ta">运行系统</td>
+		      <td colspan="2">
+		     
+			      市级
+		      
+		      </td>
+		      <td class="ta">系统名称</td>
+		      <td>天津市政务服务运行与监察考核系统</td>
+		    </tr>
+		     <tr>
+		      <td class="ta">是否支持网上支付</td>
+		      <td colspan="2">
+		     <!--  1 -->
+		       是
+		      </td>
+		      <!-- <td class="ta">是否支持预约办理</td>
+		      <td>
+		      否
+		      </td> -->
+		       <td class="ta">是否支持物流快递</td>
+		      <td colspan="2">
+		      否
+		      </td>
+		    </tr>
+		     <tr>
+		      <td class="ta">预约途径</td>
+		      <td colspan="2">
+		      <!-- 1, -->
+		      
+			      现场预约
+			      		      
+		      </td>
+		      <td class="ta">办理类型</td>
+		      <td>承诺件</td>
+		    </tr>
+		     <tr>
+		      <td class="ta">办理结果</td>
+		      <td colspan="2">准予行政许可决定书</td>
+		      <td class="ta">结果样本</td>
+		      <td>
+		      <a href="/fileService/downloadFile.jspx?fileid=361DC637-667D-4860-ACE3-B00221C241FB">准予行政许可决定书.jpg</a>
+		      </td>
+		    </tr>
+		     <tr>
+		      <td class="ta">是否数量限制</td>
+		      <td colspan="2">
+		      <!-- 0 -->
+		      否
+		      </td>
+		      <td class="ta">是否涉及中介机构</td>
+		      <td>
+		      <!-- 0 -->
+		      否
+		      </td>
+		    </tr>
+		     <tr>
+		      <td class="ta">是否联办</td>
+		      <td colspan="2">
+		      <!-- 0 -->
+		      否
+		      </td>
+		      <td class="ta">联办部门</td>
+		      <td>无</td>
+		    </tr>
+		     
+		    </tbody>
+		    </table>

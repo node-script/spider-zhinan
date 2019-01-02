@@ -1,0 +1,251 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="XNH20170017" sxid="120116000000300717847190">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">XNH20170017</td>
+					<td style="text-align: center;">卫生许可证申请书</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请书可到天津市自贸试验区、各区行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请书见附录A、B。">申请书可到天津市自...</td> -->
+					<td style="text-align: center;">申请书可到天津市自贸试验区、各区行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请书见附录A、B。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('A772CF53-4224-4FFD-9770-89517076E2CE','120116000000300717847190','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('8942F3BA-DB62-422D-8CB3-41C217E4A13A','120116000000300717847190','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D8942F3BA-DB62-422D-8CB3-41C217E4A13A');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180207110129001531" sxid="120116000000300717847190">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">20180207110129001531</td>
+					<td style="text-align: center;">健康证复印件</td>
+					<td style="text-align: center;">从具有预防性健康检查资质的单位取得</td>
+<!-- 					<td style="text-align: center;" title="健康体检合格且在有效期内，提交包含所有直接从事供、管水人员的健康证复印件1份">健康体检合格且在有...</td> -->
+					<td style="text-align: center;">健康体检合格且在有效期内，提交包含所有直接从事供、管水人员的健康证复印件1份</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="DB0730" sxid="120116000000300717847190">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">DB0730</td>
+					<td style="text-align: center;">卫生管理制度</td>
+					<td style="text-align: center;">申请人自行准备</td>
+<!-- 					<td style="text-align: center;" title="d)需提供盖有单位红章或摁有手印的原件，其中卫生管理制度应至少包含1、供水设备设施的日常运转、保养、清洗、消毒管理制度；2、供水卫生管理人员工作制度；3、供水故障应急处理制度；4、二次供水供水水质日常检测制度。">d)需提供盖有单位红...</td> -->
+					<td style="text-align: center;">d)需提供盖有单位红章或摁有手印的原件，其中卫生管理制度应至少包含1、供水设备设施的日常运转、保养、清洗、消毒管理制度；2、供水卫生管理人员工作制度；3、供水故障应急处理制度；4、二次供水供水水质日常检测制度。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="DB0733" sxid="120116000000300717847190">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">DB0733</td>
+					<td style="text-align: center;">水质检测报告</td>
+					<td style="text-align: center;">从具有水质检测资质的单位取得；</td>
+<!-- 					<td style="text-align: center;" title="需提供盖有单位骑缝章红章的原件。">需提供盖有单位骑缝...</td> -->
+					<td style="text-align: center;">需提供盖有单位骑缝章红章的原件。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="DB0732" sxid="120116000000300717847190">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">DB0732</td>
+					<td style="text-align: center;">二次供水过滤、软化、消毒设备、防腐涂料等卫生许可批件复印件（相关涉水产品材料的批件）</td>
+					<td style="text-align: center;">c)从二次供水设施安装企业处取得；</td>
+<!-- 					<td style="text-align: center;" title="需提供盖有单位红章的复印件1份。">需提供盖有单位红章...</td> -->
+					<td style="text-align: center;">需提供盖有单位红章的复印件1份。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="120116000000300717847190">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','120116000000300717847190','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','120116000000300717847190','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="120116000000300717847190">
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','120116000000300717847190','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','120116000000300717847190','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="DB0731" sxid="120116000000300717847190">
+					<td style="text-align: center;">8</td>
+					<td style="text-align: center;">DB0731</td>
+					<td style="text-align: center;">二次供水设施场所平面布局图</td>
+					<td style="text-align: center;">申请人自行准备</td>
+<!-- 					<td style="text-align: center;" title="需提供盖有单位红章或摁有手印的原件">需提供盖有单位红章...</td> -->
+					<td style="text-align: center;">需提供盖有单位红章或摁有手印的原件</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

@@ -1,0 +1,21 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta">序列</td>
+					<td class="ta">法律名称</td>
+					<td class="ta">条数</td>
+<!-- 					<td class="ta" >正文</td>  -->
+					<td class="ta">附件</td>
+					
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">《麻醉药品和精神药品管理条例》（国务院令第442号，2016年修订）</td>
+							 <td style="text-align: center;">第36条</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+				
+			</table>

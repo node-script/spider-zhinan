@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		申请条件包括：<br>医疗机构遗失《放射诊疗许可证》，应当及时在发证机关所在地的主要报刊上刊登遗失公告，并在公告30日后的一个月内向原发证部门申请补办。
+			
+		</div>

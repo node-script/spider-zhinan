@@ -1,0 +1,30 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta">序列</td>
+					<td class="ta">法律名称</td>
+					<td class="ta">条数</td>
+<!-- 					<td class="ta" >正文</td>  -->
+					<td class="ta">附件</td>
+					
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">放射性同位素与射线装置安全和防护条例</td>
+							 <td style="text-align: center;">8</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">关于放射源安全监管部门职责分工的通知</td>
+							 <td style="text-align: center;">2</td> 
+<!-- 							 <td style="text-align: center;"></td> -->
+							<td style="text-align: center;">
+							
+							</td>  
+						</tr>	
+				
+			</table>

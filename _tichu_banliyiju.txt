@@ -1,0 +1,20 @@
+<script>
+								function getFiles(policyid){
+									var files = "";
+									$.ajaxSettings.async = false;
+									$.post("/getPolicyFile.jspx",{"policyid":policyid},function(data){
+										if(data && data.length > 0){
+											for(var i in data){
+												var policy = data[i];
+												files += "<span style='color:blue;cursor:pointer;' onclick=\"downloadFile('"+policy.fileid+"')\">"+policy.filename+"";
+											}
+										}else{
+											files = "无";
+										}
+										
+									});
+									$.ajaxSettings.async = true;
+									return files;
+								}
+								document.write(getFiles('20181010171319010890'));
+							</script>

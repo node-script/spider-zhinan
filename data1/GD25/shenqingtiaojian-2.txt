@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		a) 卫生许可证有效期届满未延续的。<br>b) 被工商行政管理部门注销或者吊销营业执照的。<br>c) 在卫生许可证有效期限内，企业提出注销申请的。<br><br>申请条件依据：《消毒产品生产企业卫生许可规定》（卫监督发[2009]110号，2010年修订）第22条
+			
+		</div>

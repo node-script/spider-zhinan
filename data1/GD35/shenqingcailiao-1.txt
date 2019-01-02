@@ -1,0 +1,223 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="ppj201711070002" sxid="1201160000003007178471572">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">ppj201711070002</td>
+					<td style="text-align: center;">母婴保健技术服务执业许可申请表</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请表可到天津市行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请书见附录A、B；申请书各项内容，必须实事求是，表达要明确、严谨，字迹要清晰易辨。对填写不符合要求、资料不完备的申请表予以退回，重新填写申报。经审查，若填写内容不真实，则取消申请资格；请用A4规格纸张打（复）印，同其他申请材料一起左侧装订成册，加盖骑缝章">申请表可到天津市行...</td> -->
+					<td style="text-align: center;">申请表可到天津市行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请书见附录A、B；申请书各项内容，必须实事求是，表达要明确、严谨，字迹要清晰易辨。对填写不符合要求、资料不完备的申请表予以退回，重新填写申报。经审查，若填写内容不真实，则取消申请资格；请用A4规格纸张打（复）印，同其他申请材料一起左侧装订成册，加盖骑缝章</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('CBB03925-62E6-4C1D-A224-2283FAB164D4','1201160000003007178471572','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('69EB453E-2D2B-4A23-A265-FAD8B2FE4240','1201160000003007178471572','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D69EB453E-2D2B-4A23-A265-FAD8B2FE4240');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ww001" sxid="1201160000003007178471572">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">ww001</td>
+					<td style="text-align: center;">申请开展母婴保健技术服务的可行性报告</td>
+					<td style="text-align: center;">申请人自行编写；</td>
+<!-- 					<td style="text-align: center;" title="？	可行性报告内容应当全面、综合。主要内容包括：医疗机构基本情况和母婴保健技术服务相关建设情况（组织结构、科室设置、人员配备、设施设备、技术力量、管理模式、社会需求与社会效益分析、发展前景等）。？	如母婴保健技术服务3年有效期期满前申请延续的，可行性报告内容还须提供近3年母婴保健技术服务工作开展情况总结.？	请用A4规格纸张打（复）印，同其他申请材料一起左侧装订成册，加盖骑缝章。">？	可行性报告内容...</td> -->
+					<td style="text-align: center;">？	可行性报告内容应当全面、综合。主要内容包括：医疗机构基本情况和母婴保健技术服务相关建设情况（组织结构、科室设置、人员配备、设施设备、技术力量、管理模式、社会需求与社会效益分析、发展前景等）。？	如母婴保健技术服务3年有效期期满前申请延续的，可行性报告内容还须提供近3年母婴保健技术服务工作开展情况总结.？	请用A4规格纸张打（复）印，同其他申请材料一起左侧装订成册，加盖骑缝章。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ww002" sxid="1201160000003007178471572">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">ww002</td>
+					<td style="text-align: center;">医疗机构执业许可证正本复印件、副本原件及复印件</td>
+					<td style="text-align: center;">从市卫计委或区审批局取得；</td>
+<!-- 					<td style="text-align: center;" title="所持医疗机构执业许可证正、副本信息应当真实、有效。">所持医疗机构执业许...</td> -->
+					<td style="text-align: center;">所持医疗机构执业许可证正、副本信息应当真实、有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">1</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471572">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471572','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471572','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ww006" sxid="1201160000003007178471572">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">ww006</td>
+					<td style="text-align: center;">开展母婴保健技术服务诊疗场所平面布局示意图（仅申请开展母婴保健技术服务助产技术项目时提交）</td>
+					<td style="text-align: center;">申请人自行绘制</td>
+<!-- 					<td style="text-align: center;" title="申请人自行绘制平面布局图，应当标明房屋用途和面积，且布局应当合理、规范，符合天津市各级助产技术设置标准中房屋设置和面积要求。">申请人自行绘制平面...</td> -->
+					<td style="text-align: center;">申请人自行绘制平面布局图，应当标明房屋用途和面积，且布局应当合理、规范，符合天津市各级助产技术设置标准中房屋设置和面积要求。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="1201160000003007178471572">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471572','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471572','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ww003" sxid="1201160000003007178471572">
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">ww003</td>
+					<td style="text-align: center;">开展母婴保健技术服务的各项规章制度和操作规范</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="建立健全开展母婴保健技术服务的规章制度和操作规范。">建立健全开展母婴保...</td> -->
+					<td style="text-align: center;">建立健全开展母婴保健技术服务的规章制度和操作规范。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

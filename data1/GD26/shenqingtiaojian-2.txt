@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;margin-left: 50px;"> 
+		<div class="spacing"></div>
+		遗失卫生许可证的，应当及时在省级以上公开发行的报刊上登报申明，然后向省级卫生行政部门提出补办申请。<br><br>申请条件依据：《消毒产品生产企业卫生许可规定》（卫监督发[2009]110号，2010年修订）第23条
+			
+		</div>

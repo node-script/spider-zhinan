@@ -1,0 +1,5 @@
+<input type="button" value="在线预约" onclick="zxyy();" class="but">   
+					      
+					        <a onclick="wssb('120116000000300717847186')" href="javascript:void(0)"><input type="button" value="在线申报" class="but4"></a>
+											<input type="button" value="收藏" class="but4" style="background: #aaa;" onclick="dengl();">
+					      <input type="button" value="下载打印本规程" onclick="downAllText('120116000000300717847186');" class="but4">

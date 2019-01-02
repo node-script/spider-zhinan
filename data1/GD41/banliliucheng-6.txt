@@ -1,0 +1,61 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	天津市医疗保健机构计划生育技术服务人员资格考核申请表应主要审查以下内容：a)  申请人所填信息是否正确、完整；b)  申请人所填信息是否与相应原件信息一致；c)  工作经历中的时间是否连续无断档；d)  所在单位是否签署意见并加盖公章。参加全市统一组织的计划生育基础理论知识考试和参加区县组织的实际操作技能考核及格的证明材料应主要审查以下内容：a)  原件是否加盖公章；b)  考试结果是否为及格及以上等次。原《合格证》应主要审查以下内容：a)  所提供复印件是否与原件一致；b)  所提供的原《合格证》是否在有效期内；c)  所提供的原《合格证》信息与计划生育技术服务人员《合格证》增加技术服务项目申请表中所填信息是否一致。
+							 <!-- <span>
+天津市医疗保健机构计划生育技...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">《行政许可受理告知书》、《行政许可不予受理告知书》</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	纸质审查标准与形式审查标准一致。
+							 <!-- <span>
+纸质审查标准与形式审查标准一...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，并签发《准予行政许可决定书》；b)网上审批事项申请材料齐全、符合法定形式的，应在网上作出行政许可决定，申请人持纸质申请材料到市区、新区、自贸区或郊区县行政许可服务中心办理窗口取件，审批工作人员现场核验纸质材料与电子材料，核验无误后，立即签发《准予行政许可决定书》；c)依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>

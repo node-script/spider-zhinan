@@ -1,0 +1,5 @@
+﻿<div class="tagContent" style="min-height: 400px;">
+		<div class="spacing"></div>
+				<div style="text-align:center"><img src="http://zwfw.tj.gov.cn/fileService/downloadFile.jspx?fileid=CB48CFDF-AE3F-4994-819A-2B1291F0B4AF" style="width:80%"></div>
+		
+		</div>

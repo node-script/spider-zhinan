@@ -1,0 +1,251 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="20180315164947025723" sxid="1201160000003007178471135">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471135','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471135','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471135">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471135','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471135','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZQ20170216" sxid="1201160000003007178471135">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">ZQ20170216</td>
+					<td style="text-align: center;">生产场地使用证明（房屋产权证明或租赁协议）</td>
+					<td style="text-align: center;">从国土房管部门取得或申请人自行签订；</td>
+<!-- 					<td style="text-align: center;" title="申请单位生产地址与产权证明地址一致，涉及租赁关系的，提供租赁合同及出租方产权证。">申请单位生产地址与...</td> -->
+					<td style="text-align: center;">申请单位生产地址与产权证明地址一致，涉及租赁关系的，提供租赁合同及出租方产权证。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZQ20170193" sxid="1201160000003007178471135">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">ZQ20170193</td>
+					<td style="text-align: center;">《消毒产品生产企业卫生许可证》申请表</td>
+					<td style="text-align: center;">申请人自行填写；</td>
+<!-- 					<td style="text-align: center;" title="申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B。">申请表可到天津市（...</td> -->
+					<td style="text-align: center;">申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('D9EE8D0B-C89C-4F97-9232-77A914E4456F','1201160000003007178471135','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('CEA6E17A-D944-4D9C-97F9-8EE5A0EF1362','1201160000003007178471135','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3DCEA6E17A-D944-4D9C-97F9-8EE5A0EF1362');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZQ20170208" sxid="1201160000003007178471135">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">ZQ20170208</td>
+					<td style="text-align: center;">生产工艺流程图</td>
+					<td style="text-align: center;">申请人自行准备；</td>
+<!-- 					<td style="text-align: center;" title="按生产流程标注各关键环节控制点。">按生产流程标注各关...</td> -->
+					<td style="text-align: center;">按生产流程标注各关键环节控制点。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZQ20170210" sxid="1201160000003007178471135">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">ZQ20170210</td>
+					<td style="text-align: center;">质量保证体系文件</td>
+					<td style="text-align: center;">申请人自行填写；</td>
+<!-- 					<td style="text-align: center;" title="根据《消毒产品生产企业卫生许可规定》附件1第二点的要求，准备生产单位相关质量保证体系文件。">根据《消毒产品生产...</td> -->
+					<td style="text-align: center;">根据《消毒产品生产企业卫生许可规定》附件1第二点的要求，准备生产单位相关质量保证体系文件。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZQ20170220" sxid="1201160000003007178471135">
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">ZQ20170220</td>
+					<td style="text-align: center;">生产环境和生产用水检测报告</td>
+					<td style="text-align: center;">从有资质的中介卫生评价机构取得；</td>
+<!-- 					<td style="text-align: center;" title="所做相关项目检测报告齐全且检验项目合格。报告要求及提纲参见《消毒产品生产企业卫生许可规定》附件1。主要包括以下内容： 生产企业应提供1年内的生产环境和生产用水检测报告，检测报告应由经过计量认证的检验机构出具。 （一）卫生用品生产企业检验项目。 1.生产车间环境： （1）有净化要求的生产车间：检测净化车间的温度、相对湿度、进风口风速、室内外压差、空气中≥0.5μm和≥5μm尘埃粒子数，车间空气、工作台表面细菌菌落总数，工人手表面细菌菌落总数和致病菌。 （2）无净化要求的生产车间：检测生产车间工作台表面、车间空气细菌菌落总数，工人手表面细菌菌落总数和致病菌。 2.紫外线灯辐射强度：采用紫外线对车间空气消毒的生产企业。 3.消毒灭菌效果验证：自备消毒灭菌器对生产的消毒产品进行消毒灭菌处理的生产企业。 4.生产用水：隐形眼镜护理用品和抗（抑）菌制剂的生产用水按照《中华人民共和国药典》二部纯化水检测全项目，隐形眼镜护理用品的生产用水还应做无菌试验。 （二） 消毒剂生产企业检验项目。 1.有净化要求的生产车间：检测净化车间的温度、相对湿度、进风口风速、室内外压差、空气中≥0.5μm和≥5μm尘埃粒子数，工作台表面细菌菌落总数。 2.紫外线灯辐射强度：采用紫外线进行车间空气消毒的生产企业。 3.生产用水：灭菌剂、皮肤粘膜消毒剂的生产用水按照《中华人民共和国药典》二部纯化水检测全项目。">所做相关项目检测报...</td> -->
+					<td style="text-align: center;">所做相关项目检测报告齐全且检验项目合格。报告要求及提纲参见《消毒产品生产企业卫生许可规定》附件1。主要包括以下内容： 生产企业应提供1年内的生产环境和生产用水检测报告，检测报告应由经过计量认证的检验机构出具。 （一）卫生用品生产企业检验项目。 1.生产车间环境： （1）有净化要求的生产车间：检测净化车间的温度、相对湿度、进风口风速、室内外压差、空气中≥0.5μm和≥5μm尘埃粒子数，车间空气、工作台表面细菌菌落总数，工人手表面细菌菌落总数和致病菌。 （2）无净化要求的生产车间：检测生产车间工作台表面、车间空气细菌菌落总数，工人手表面细菌菌落总数和致病菌。 2.紫外线灯辐射强度：采用紫外线对车间空气消毒的生产企业。 3.消毒灭菌效果验证：自备消毒灭菌器对生产的消毒产品进行消毒灭菌处理的生产企业。 4.生产用水：隐形眼镜护理用品和抗（抑）菌制剂的生产用水按照《中华人民共和国药典》二部纯化水检测全项目，隐形眼镜护理用品的生产用水还应做无菌试验。 （二） 消毒剂生产企业检验项目。 1.有净化要求的生产车间：检测净化车间的温度、相对湿度、进风口风速、室内外压差、空气中≥0.5μm和≥5μm尘埃粒子数，工作台表面细菌菌落总数。 2.紫外线灯辐射强度：采用紫外线进行车间空气消毒的生产企业。 3.生产用水：灭菌剂、皮肤粘膜消毒剂的生产用水按照《中华人民共和国药典》二部纯化水检测全项目。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="ZQ20170207" sxid="1201160000003007178471135">
+					<td style="text-align: center;">8</td>
+					<td style="text-align: center;">ZQ20170207</td>
+					<td style="text-align: center;">生产场所厂区平面图、生产车间布局平面图</td>
+					<td style="text-align: center;">申请人自行准备</td>
+<!-- 					<td style="text-align: center;" title="标注生产厂区四周情况，生产车间面积、布局及人流、物流走向">标注生产厂区四周情...</td> -->
+					<td style="text-align: center;">标注生产厂区四周情况，生产车间面积、布局及人流、物流走向</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

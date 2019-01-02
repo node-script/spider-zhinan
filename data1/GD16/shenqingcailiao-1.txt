@@ -1,0 +1,394 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" width="5%">序列</td>
+					<td class="ta" width="5%">材料编码</td>
+					<td class="ta" width="15%">材料名称</td>
+					<td class="ta" width="10%">材料来源</td>
+					<td class="ta" width="20%">材料准备要点</td>
+					<td class="ta" width="7%" style="line-height:25px">材料阶位</td>
+					<td class="ta" width="7%" style="line-height:25px">材料属性</td>
+					<td class="ta" width="7%">原件数</td>
+					<td class="ta" width="7%" style="line-height:25px">复印<br>件数</td>
+<!-- 					<td  class="ta" width="5%">是否<br>必要</td> -->
+					<td class="ta" width="7%" style="line-height:25px">是否需要电子版</td>
+					<!--   <td class="ta"  width="20%">材料要求及数量</td>  -->
+					<td class="ta" width="7%" style="text-align: center;">申请表格</td>
+					<td class="ta" width="7%" style="text-align: center;">示范文本</td>
+				</tr>
+				 
+				<tr id="20171207194741021356" sxid="1201160000003007178471458">
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">20171207194741021356</td>
+					<td style="text-align: center;">变更医疗机构地址的房屋产权证明、租赁协议</td>
+					<td style="text-align: center;">从本单位取得</td>
+<!-- 					<td style="text-align: center;" title="房屋为投资人所有的，需要提供房屋产权证明；是租赁关系的，需要房屋的产权证明和租赁协议。此项材料仅办理医疗机构变更地址时提供，如增加医疗机构执业地点。">房屋为投资人所有的...</td> -->
+					<td style="text-align: center;">房屋为投资人所有的，需要提供房屋产权证明；是租赁关系的，需要房屋的产权证明和租赁协议。此项材料仅办理医疗机构变更地址时提供，如增加医疗机构执业地点。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207195124021418" sxid="1201160000003007178471458">
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">20171207195124021418</td>
+					<td style="text-align: center;">变更服务对象情况说明</td>
+					<td style="text-align: center;">医疗机构自行撰写或从医疗机构上级主管部门取得</td>
+<!-- 					<td style="text-align: center;" title="仅办理变更服务对象时提供，或是社会或是内部">仅办理变更服务对象...</td> -->
+					<td style="text-align: center;">仅办理变更服务对象时提供，或是社会或是内部</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207195232021445" sxid="1201160000003007178471458">
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">20171207195232021445</td>
+					<td style="text-align: center;">变更服务方式可行性报告</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="仅办理变更服务方式时提供">仅办理变更服务方式...</td> -->
+					<td style="text-align: center;">仅办理变更服务方式时提供</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207195448021462" sxid="1201160000003007178471458">
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">20171207195448021462</td>
+					<td style="text-align: center;">变更诊疗科目的人员名单及资格证、执业证、职称证复印件</td>
+					<td style="text-align: center;">申请人自行准备</td>
+<!-- 					<td style="text-align: center;" title="仅办理变更诊疗科目时提供医师、护士等卫生技术人员相关证书复印件1份。">仅办理变更诊疗科目...</td> -->
+					<td style="text-align: center;">仅办理变更诊疗科目时提供医师、护士等卫生技术人员相关证书复印件1份。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">1</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207195555021466" sxid="1201160000003007178471458">
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">20171207195555021466</td>
+					<td style="text-align: center;">变更诊疗科目的规章制度</td>
+					<td style="text-align: center;">由申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="撰写拟增加的诊疗科目在业务管理、人员管理、质量控制、医院感染控制等方面的管理制度。仅办理变更诊疗科目时提供。">撰写拟增加的诊疗科...</td> -->
+					<td style="text-align: center;">撰写拟增加的诊疗科目在业务管理、人员管理、质量控制、医院感染控制等方面的管理制度。仅办理变更诊疗科目时提供。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207195642021467" sxid="1201160000003007178471458">
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">20171207195642021467</td>
+					<td style="text-align: center;">变更诊疗科目的设备设施清单</td>
+					<td style="text-align: center;">由申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="清单上必须列明设备的名称、型号、数量。仅办理变更诊疗科目时提供。">清单上必须列明设备...</td> -->
+					<td style="text-align: center;">清单上必须列明设备的名称、型号、数量。仅办理变更诊疗科目时提供。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164919025698" sxid="1201160000003007178471458">
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">20180315164919025698</td>
+					<td style="text-align: center;">申办行政许可项目承诺书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >是</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('068DFD01-90BC-4D99-A142-56AB63532626','1201160000003007178471458','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE','1201160000003007178471458','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D6B2B373F-9D0A-4C60-88B2-DE5BAE8737CE');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207200334021505" sxid="1201160000003007178471458">
+					<td style="text-align: center;">8</td>
+					<td style="text-align: center;">20171207200334021505</td>
+					<td style="text-align: center;">医疗机构变更床位（牙椅）申请表（详见附录C）</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="仅办理变更床位（牙椅）时提供。">仅办理变更床位（牙...</td> -->
+					<td style="text-align: center;">仅办理变更床位（牙椅）时提供。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('599B8D51-327C-48B5-9CA7-E9D4E86CB649','1201160000003007178471458','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D599B8D51-327C-48B5-9CA7-E9D4E86CB649');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207191403020899" sxid="1201160000003007178471458">
+					<td style="text-align: center;">9</td>
+					<td style="text-align: center;">20171207191403020899</td>
+					<td style="text-align: center;">医疗机构申请变更登记注册书</td>
+					<td style="text-align: center;">申请人自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B">申请表可到天津市（...</td> -->
+					<td style="text-align: center;">申请表可到天津市（区）行政许可服务中心现场领取，也可通过天津网上办事大厅（zwfw.tj.gov.cn）直接下载，填写说明及申请表见附录A、B</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('470B8D8F-3303-4C90-8A84-9121FB1A3495','1201160000003007178471458','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('F97655E9-B882-4B4E-872B-C03D03F66AB2','1201160000003007178471458','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3DF97655E9-B882-4B4E-872B-C03D03F66AB2');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="cjw3001" sxid="1201160000003007178471458">
+					<td style="text-align: center;">10</td>
+					<td style="text-align: center;">cjw3001</td>
+					<td style="text-align: center;">《医疗机构执业许可证》正、副本复印件</td>
+					<td style="text-align: center;">市卫生部门颁发的《医疗机构执业许可证》</td>
+<!-- 					<td style="text-align: center;" title="有效的《医疗机构执业许可证》正、副本复印件，并加盖公章">有效的《医疗机构执...</td> -->
+					<td style="text-align: center;">有效的《医疗机构执业许可证》正、副本复印件，并加盖公章</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">1</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207194450021324" sxid="1201160000003007178471458">
+					<td style="text-align: center;">11</td>
+					<td style="text-align: center;">20171207194450021324</td>
+					<td style="text-align: center;">变更医疗机构名称的文书证明</td>
+					<td style="text-align: center;">从医疗机构上级主管单位或市场监管部门取得</td>
+<!-- 					<td style="text-align: center;" title="文书证明即医疗机构上级主管单位出具的变更名称的决定，或者从市场监管部门取得的工商营业执照、名称预核准文件。此项材料仅在办理变更医疗机构名称时提供，如增加医疗机构第二名称。">文书证明即医疗机构...</td> -->
+					<td style="text-align: center;">文书证明即医疗机构上级主管单位出具的变更名称的决定，或者从市场监管部门取得的工商营业执照、名称预核准文件。此项材料仅在办理变更医疗机构名称时提供，如增加医疗机构第二名称。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20180315164947025723" sxid="1201160000003007178471458">
+					<td style="text-align: center;">12</td>
+					<td style="text-align: center;">20180315164947025723</td>
+					<td style="text-align: center;">委托书</td>
+					<td style="text-align: center;">申请人从天津市行政审批服务网下载后自行填写</td>
+<!-- 					<td style="text-align: center;" title="申请材料真实有效。">申请材料真实有效。</td> -->
+					<td style="text-align: center;">申请材料真实有效。</td>
+					<td style="text-align: center;">主审材料</td>
+					<td style="text-align: center;">共性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:download('2389798B-5B03-403D-B7E9-F2B5EA9A3A45','1201160000003007178471458','300717847','2')" class="L-but-bule">下载</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+ <a href="javascript:download('819227C4-8B63-40D7-A7F8-DAF69B83EBB8','1201160000003007178471458','300717847','2')" class="L-but-bule">下载</a>
+  <!-- <a href="javascript:void(0);" onClick="window.open('/generic/web/viewer.html?file=/fileService/downloadFile.jspx?fileid%3D819227C4-8B63-40D7-A7F8-DAF69B83EBB8');" 
+  class="L-but-bule">预览</a> -->
+                     
+                    </td>
+					  
+					 
+				</tr>	
+				
+				<tr id="20171207200003021476" sxid="1201160000003007178471458">
+					<td style="text-align: center;">13</td>
+					<td style="text-align: center;">20171207200003021476</td>
+					<td style="text-align: center;">建筑设计平面图</td>
+					<td style="text-align: center;">一般从建筑设计公司或装饰公司取得，也可由申请人自行准备</td>
+<!-- 					<td style="text-align: center;" title="平面图要标明拟增科室的布局、就诊流程、面积和各功能区。仅办理变更地址、诊疗科目时提供。">平面图要标明拟增科...</td> -->
+					<td style="text-align: center;">平面图要标明拟增科室的布局、就诊流程、面积和各功能区。仅办理变更地址、诊疗科目时提供。</td>
+					<td style="text-align: center;">可承诺材料容缺后补</td>
+					<td style="text-align: center;">个性材料</td>
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">0</td>
+<!-- 					<td style="text-align: center;" >否</td> -->
+					<td style="text-align: center;">是</td>
+					<!--  <td  style="text-align: center;" ></td>  -->
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+					 
+					<td style="text-align: center;">
+                    <a href="javascript:void(0);" class="L-but-bule">无</a>
+                    </td>
+					  
+					 
+				</tr>	
+				 			</table>

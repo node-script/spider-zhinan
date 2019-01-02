@@ -1,0 +1,77 @@
+﻿<table class="tab02" border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="ta" style="width: 5%;">序列</td>
+					<td class="ta" style="width:8%;">环节名称</td>
+					<td class="ta" style="width: 10%;">步骤</td>
+<!-- 					<td class="ta" style="width: 8%;">办理人</td>  -->
+<!-- 					<td class="ta" style="width: 8%;">办理期限</td> -->
+					<td class="ta" style="width: 25%;">审查标准</td>
+<!-- 					<td class="ta" style="width: 10%;">依据</td> -->
+					<td class="ta" style="width: 26%;">结果</td>
+				</tr>
+				
+						<tr>
+							 <td style="text-align: center;">1</td>
+							 <td style="text-align: center;">受理</td>
+							 <td style="text-align: center;">形式审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	1、医师执业注册申请审核表应主要审查：医师执业注册申请审核表中的内容填写是否规范。2、近6个月2寸白底免冠正面半身照片；应主要审查：照片应为白底、免冠3、医疗、预防、保健机构的聘用证明应主要审查：公章是否与机构名称一致，医师执业类别、执业范围是否一致。4、在市卫计委指定的机构接受６个月以上的培训并考核合格的证明应主要审查：培训时间是否达到要求，培训机构是否为市卫计委指定机构，培训内容是否与执业类别、执业范围保持一致。
+							 <!-- <span>
+1、医师执业注册申请审核表应...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">接件人员根据下列情况分别作出处理：a)申请材料齐全、符合法定形式，或者申请人按照行政审批部门的要求提交全部补正申请材料的，应当在“天津市行政许可服务与效能管理系统”上，受理行政许可申请,并出具加盖行政审批专用章的《行政许可受理告知书》；b)申请事项依法不需要取得行政许可的，应当即时告知申请人不受理，并出具加盖行政审批专用章的《行政许可不予受理告知书》。</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">2</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">纸质审查</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	a） 医师执业注册申请审核表中的内容填写是否规范；b） 该医师是否注册过；c） 该医师申请注册的执业类别和执业范围是否在拟执业机构／主要执业机构开设的诊疗科目范围内；d） 该《医师资格证》或《助理医师资格证》的签发日期距申请之日是否超过两年，若是，还要审查其在市卫计委指定的机构接受６个月以上的培训并考核合格的证明是否符合要求；e） 是否属于执业助理医师又取得执业医师资格，若是，还要审查其《助理医师执业证书》是否符合要求并将其收回。
+							 <!-- <span>
+a） 医师执业注册申请审核表中...							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">3</td>
+							 <td style="text-align: center;">审查</td>
+							 <td style="text-align: center;">现场踏勘</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	执业注册操作程序不涉及现场踏勘
+							 <!-- <span>
+执业注册操作程序不涉及现场踏勘							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">通过/不予通过</td>
+							 
+						</tr>	
+						<tr>
+							 <td style="text-align: center;">4</td>
+							 <td style="text-align: center;">决定</td>
+							 <td style="text-align: center;">决定</td> 
+<!-- 							 <td style="text-align: center;"></td>  -->
+<!-- 							 <td style="text-align: center;"></td> -->
+							 
+							 <td style="text-align: center;">
+							 	依以上流程决定
+							 <!-- <span>
+依以上流程决定							 </span> -->
+							 </td>
+<!-- 							 <td style="text-align: center;"></td> -->
+							 <td style="text-align: center;">审批工作人员应根据法律、法规、规章和审查意见，并按照下列情况分别作出处理：a)申请人提交的申请材料齐全、符合法定形式，应在承诺时限内作出决定的，签发《准予行政许可决定书》，印制《医师执业证书》或《助理医师执业证书》；b)网上审批事项申请材料齐全、符合法定形式的，应在网上作出行政许可决定，申请人持纸质申请材料到市或区县行政许可服务中心办理窗口取件，审批工作人员现场核验纸质材料与电子材料，核验无误后，立即签发《准予行政许可决定书》，印制《医师执业证书》或《助理医师执业证书》；c)依法作出不予行政许可的书面决定的，应当说明理由，签发《不予行政许可决定书》见附录F，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。</td>
+							 
+						</tr>	
+			</table>
